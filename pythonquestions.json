@@ -1,0 +1,23 @@
+[
+    {
+    "question": "What is Big O Notation?",
+    "choice1": "I know this.",
+    "choice2": "I don't know this. Show Answer.",
+    "answer": 1,
+    "explanation": "Describes the computational complexity of an algorithm (The time and space complexity). These functions describe the amount of operations/memory needed by the algorithm as the arguments grow towards infinity."
+    },
+    {
+    "question": "What is the time complexity of an algorithm?",
+    "choice1": "I know this.",
+    "choice2": "I don't know this. Show Answer.",
+    "answer": 1,
+    "explanation": "The amount of time an algorithm needs to run relative to input size."
+    },
+    {
+    "question": "What is the space complexity of an algorithm?",
+    "choice1": "I know this.",
+    "choice2": "I don't know this. Show Answer.",
+    "answer": 1,
+    "explanation": "The amount of memory allocated by the algorithm when run relative to input size."
+    } 
+]
